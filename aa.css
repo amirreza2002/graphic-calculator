@@ -1,0 +1,284 @@
+.maind
+{
+	padding: 20px 20px;
+	border: 6px groove green;
+	height: 350px;
+	width: 325px;
+	margin-left: 350px;
+	margin-top: 150px;
+}
+
+#res
+{
+	position: absolute;
+	height: 50px;
+	width: 233px;
+	margin-top: 20px;
+	background-color: white;
+	margin-right: 100px;
+	font-family: Arial;
+	font-style: bold;
+	font-size: 40px;
+}
+
+#number1
+{
+	height: 50px;
+	position: absolute;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	margin-top: 85px;
+}
+
+#number2
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 85px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 85px;
+}
+
+#number3
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 170px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 85px;
+}
+
+#cls
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 255px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: -40px;
+	background-color: red;
+}
+
+#jazr
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 255px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 20px;
+	background-color: beige;
+}
+
+
+#taghsim
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 255px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 85px;
+	background-color: beige;
+}
+
+#zarb
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 255px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 150px;
+	background-color: beige;
+}
+
+#menha
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 255px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 215px;
+	background-color: beige;
+}
+
+#jam
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 255px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 280px;
+	background-color: beige;
+}
+
+
+
+#number4
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 0px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 150px;
+}
+
+#number5
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 85px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 150px;
+}
+
+#number6
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 170px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 150px;
+}
+
+#number7
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 0px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 215px;
+}
+
+#number8
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 85px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 215px;
+}
+
+#number9
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 170px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 215px;
+}
+
+#momayez
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 0px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 280px;
+	text-align: center;
+}
+
+#number0
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 85px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 280px;
+}
+
+#tasavi
+{
+	height: 50px;
+	width: 70px;
+	border: 2px groove brown;
+	color: black;
+	margin-left: 170px;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 280px;
+	background-color: beige;
+}
